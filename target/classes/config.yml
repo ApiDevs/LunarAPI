@@ -1,0 +1,7 @@
+kick-player:
+  enabled: true
+  message: "&cLunar Client is required to play on HYS %SPACER% &cDownload at &olunar.gg/client"
+player:
+  authenticate-message:
+    enable: true
+    message: "&aYou have been authenticated with Lunar Client."
